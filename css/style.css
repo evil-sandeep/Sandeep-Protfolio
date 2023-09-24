@@ -375,7 +375,7 @@ svg {
 }
 
 .button:hover {
-    box-shadow: 0 8px 24px hsla(var(--hue), 100%, 40%, .25);
+    box-shadow: 0 8px 24px hsla(var(--hue), 100%, 40%, .50);
 }
 
 /* About */
